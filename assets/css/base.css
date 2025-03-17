@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 :root{
     --background:#ffffff;
     --foreground:#ebf4ff;
-    --thirdground:#ffc600;
-    --primary:#131923;
-    --secondary:#0055b8;
+    --thirdground:#75ffaffb;
+    --primary:#000000;
+    --secondary:#1fb800;
     --secondary-foreground:#ffffff;
     --hero-background:#f3f3f3;
 }
